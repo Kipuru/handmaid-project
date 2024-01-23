@@ -1,0 +1,32 @@
+* {
+  background-color: black;
+  color: white;
+}
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.center {
+  margin: auto;
+  width: 50%;
+}
+.button {
+  margin: 
+  background-color: black;
+  border: 0.5vh solid white;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+}
+.button:hover {
+  cursor: pointer;
+  background-color: red;
+  border: 0.5vh solid red;
+  color: black;
+}
+.button:click {
+  
+}
