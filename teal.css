@@ -7,3 +7,19 @@ html {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
+.title-box{
+    border: 1px solid white;
+    width: 20%;
+    margin: auto;
+    text-align: center;
+    background-color: black;
+}
+.text-box{
+    width: 40%;
+    margin: auto;
+    text-indent: 2em;
+    text-align: center;
+}
+.text{
+    line-height: 3;
+}
