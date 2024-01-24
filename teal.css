@@ -43,8 +43,7 @@ html {
 }
 .button:hover {
     cursor: pointer;
-    background-color: #00b3ff;
-    border: 2px solid #00b3ff;
-    color: black;
-    box-shadow: 0 12px 16px 0 rgba(0, 179, 255, 0.24), 0 17px 50px 0 rgba(0, 179, 255, 0.19);
+    background-color: #223d2a;
+    border: 2px solid #223d2a;
+    box-shadow: 0 12px 16px 0 rgba(34, 61, 42, 0.24), 0 17px 50px 0 rgba(34, 61, 42, 0.19);
 }
