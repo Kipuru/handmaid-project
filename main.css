@@ -30,8 +30,7 @@ html {
   background-color: red;
   border: 2px solid red;
   color: black;
-  box-shadow: 0 12px 16px 0 rgba(255, 0, 0, 0.24),
-    0 17px 50px 0 rgba(255, 0, 0, 0.19);
+  box-shadow: 0 12px 16px 0 rgba(255, 0, 0, 0.24), 0 17px 50px 0 rgba(255, 0, 0, 0.19);
 }
 
 .box {
