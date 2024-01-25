@@ -9,8 +9,8 @@ html {
 }
 .title-box{
     border: 1px solid #ccfbff;
-    width: 20%;
-    margin: auto;
+    width: 100%;
+    margin: 1em;
     text-align: center;
     background-color: #ccfbff;
     color: black;
