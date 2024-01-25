@@ -5,4 +5,5 @@ I hope to eventually improve my skills when it comes to HTML and CSS. But to get
 
 And this, unfortunately, is the ugly.
 
--Purum "Kip" Kim
+-Kip
+
