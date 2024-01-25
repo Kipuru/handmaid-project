@@ -47,8 +47,8 @@ html {
 }
 .button {
     margin: auto;
-    background-color: #330101;
-    border: 2px solid #330101;
+    background-color: black;
+    border: 2px solid black;
     color: whitesmoke;
     padding: 1em 2em;
     text-align: center;
