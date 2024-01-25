@@ -51,7 +51,7 @@ html {
 .button {
     margin: auto;
     background-color: #330101;
-    border: 5px outset #330101;
+    border: 2px solid #330101;
     color: whitesmoke;
     padding: 1em 2em;
     text-align: center;
@@ -65,7 +65,7 @@ html {
     padding: 0.5em 3em;
     cursor: pointer;
     background-color: #00b3ff;
-    border: 5px solid #00b3ff;
+    border: 2px solid #00b3ff;
     color: black;
     box-shadow: 0 12px 16px 0 rgba(0, 179, 255, 0.24), 0 17px 50px 0 rgba(0, 179, 255, 0.19);
 }
