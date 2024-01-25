@@ -61,8 +61,18 @@ html {
 .button:hover {
     padding: 0.5em 3em;
     cursor: pointer;
-    background-color: #00b3ff;
-    border: 2px solid #00b3ff;
     color: black;
     box-shadow: 0 12px 16px 0 rgba(0, 179, 255, 0.24), 0 17px 50px 0 rgba(0, 179, 255, 0.19);
+}
+.button1:hover {
+    background-color: black;
+    border: 2px solid black;
+}
+.button2:hover {
+    background-color: #330101;
+    border: 2px solid #330101;
+}
+.button3:hover {
+    background-color: #1f3d7a;
+    border: 2px solid #1f3d7a;
 }
