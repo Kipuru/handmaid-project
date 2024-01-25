@@ -17,11 +17,17 @@ html {
     box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
 }
 .text-box{
-    width: 40%;
+    width: 60%;
     margin: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 1em;
     text-indent: 2em;
     text-align: center;
-}
+    color: black;
+    background-color: rgb(240, 209, 192);
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  }
 .border{
     display: flex;
     justify-content: center;
