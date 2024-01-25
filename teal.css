@@ -22,6 +22,15 @@ html {
     text-indent: 2em;
     text-align: center;
 }
+.border{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    height: auto;
+    margin: auto;
+    padding: 0.2em;
+    background-color: white;
+}
 .text{
     line-height: 3;
 }
